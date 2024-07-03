@@ -8,3 +8,6 @@ Github:https://github.com/gurnitha/2466-dj5-newzine
 #### 1. Menginstal Django
 
         modified:   README.md
+
+
+## 2. PROYEK DAN APLIKASI
